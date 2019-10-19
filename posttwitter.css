@@ -1,0 +1,94 @@
+.background{
+
+    background-color: #15202b;
+
+}
+
+.retweet{
+
+    color: rgb(136, 153, 166);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    background-color: white;
+    
+}
+
+
+
+#user{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    box-shadow: rgb(255, 255, 255)
+    
+}
+
+#text{
+    margin-top: 40px;
+    margin-left:0px;
+    padding: 20px 0px 16px 0px;
+    
+}
+.box{
+    display: flex;
+    flex-direction:row;
+    margin: 20px;
+    
+
+
+}
+.conteiner{
+    flex-grow: 2px;
+}
+.fotoPerfil{
+ 
+    border-radius:50%;
+    width: 47px;
+    height: 47px;
+
+}
+
+.logos{
+    stroke: #f8f8f7;
+    stroke-width: 0.5px;
+  }
+.nomeUsuario{
+
+    color:rgb(255, 255, 255);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+
+}
+
+.box {
+    display: flex;
+  }
+
+  .one {
+    flex: 0.1;
+    color: rgb(136, 153, 166);
+  }
+
+  .two {
+    flex: 0.1;
+    color: rgb(136, 153, 166);
+  }
+
+  .three {
+    flex: 0.1;
+    color: rgb(136, 153, 166);
+  }
+
+  .four{
+      flex: 0.1;
+      color: rgb(136, 153, 166);
+  }
+
+.post{
+        
+        border: 2px rgb(95, 90, 90)
+        
+}
+
+.informacoes{
+
+    color: rgb(136, 153, 166);
+
+}
